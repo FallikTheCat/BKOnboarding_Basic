@@ -17,16 +17,15 @@ A basic SwiftUI Onboarding SDK designed to provide a first-impression for users.
 - **💾 Persistent State**: Automatically saves the "onboarding completed" status to UserDefaults using a custom suite.
 
 - **⌛️ Loading States**: Includes a LoadingView overlay to manage transitions during the review request process.
-  
-- **✨ Dark Mode Ready**: A high-contrast UI optimized for dark mode.
 
 ---
 
 ## Installation
+
 Swift Package Manager
 In Xcode, go to File → Add Packages...
 
-Enter the repository URL: [https://github.com/FallikTheCat/BKCustomComponentsKit](https://github.com/FallikTheCat/BKOnboarding_Basic)
+Enter the repository URL: [https://github.com/FallikTheCat/BKOnboarding_Basic](https://github.com/FallikTheCat/BKOnboarding_Basic)
 
 Select Up to Next Major Version and click Add Package.
 
