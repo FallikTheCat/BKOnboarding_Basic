@@ -25,7 +25,7 @@ A basic SwiftUI Onboarding SDK designed to provide a first-impression for users.
 Swift Package Manager
 In Xcode, go to File → Add Packages...
 
-Enter the repository URL: [https://github.com/FallikTheCat/BKOnboarding_Basic](https://github.com/FallikTheCat/BKOnboarding_Basic)
+Enter the repository URL: [https://github.com/KocBaturay/BKOnboarding_Basic](https://github.com/KocBaturay/BKOnboarding_Basic)
 
 Select Up to Next Major Version and click Add Package.
 
